@@ -1,0 +1,104 @@
+.PopUp{
+    width: 252px;
+    /* width: 300px; */
+    height: 500px;
+    /* border-radius: 24px; */
+    padding: 10px;
+    padding-top: 20px;
+    /* padding-bottom: 50px; */
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    /* box-shadow: 0 0 10px rgba(7, 7, 7, 0.3); */
+}
+.RecordDiv{
+    display: flex;
+    justify-content: space-between;
+}
+.icon1P{
+    display: flex;
+}
+.icon1{
+    width: 28px;
+    height: 28px;
+}
+.icon1P p{
+    margin-top: 5px;
+    width: 96px;
+    height: 20px;
+    font-weight: 700;
+    font-size: 16px;
+    color: #120B48;
+    margin-left: 10px;
+}
+.setting{
+    margin-right: 10px;
+}
+.RecordeText{
+    color: #413C6D;
+    font-weight: 400;
+    width: 225px;
+    height: 32px;
+    font-size: 14px;
+}
+.monCopy{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+
+}
+.monitorDiv{
+    margin-right: 50px;
+}
+.monitorDiv p{
+    margin-left: -30px;
+    text-align: center;
+    color: #928FAB;
+}
+.CopyDiv p{
+    margin-left: -30px;
+}
+.CameraDiv{
+    display: flex;
+    justify-content: space-between;
+    border: solid #120B48 1px;
+    border-radius: 10px;
+    width: 252px;
+    height: 51px;
+}
+.AudioDiv{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    border: solid #120B48 1px;
+    border-radius: 10px;
+    width: 252px;
+    height: 51px;
+}
+.Toggle{
+    width: 36px;
+    height: 20px;
+    margin-top: 15px;
+    margin-right: 20px;
+}
+.AudioDiv p{
+    margin-left: 20px;
+    font-weight: 500;
+    font-size: 14px;
+    color: #100A42;
+}
+.CameraDiv p{
+    margin-left: 20px;
+}
+.StartButton{
+    background-color: #120B48;
+    color: white;
+    padding: 20px;
+    border: none;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 252px;
+    height: 51px;
+    font-weight: 500;
+    font-size: 16px;
+}
